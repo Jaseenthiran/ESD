@@ -3,4 +3,7 @@ WelCome to SLIIT Kitchen
 Pizza
 Noodles
 
+Bread
+Bun
+
 Chicken fry
